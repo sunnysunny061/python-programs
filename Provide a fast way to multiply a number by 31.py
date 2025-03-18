@@ -1,3 +1,5 @@
+#code
+
 n=int(input())
 temp=n
 n=n<<5
