@@ -1,10 +1,10 @@
-def rev(x):
-    rev=0
+def reverse(x):
+    reverse=0
     while x!=0:
-        rev = rev * 10
-        rev=rev+x%10
+        reverse = reverse * 10
+        reverse=reverse+x%10
         x=x//10
-    print(rev)
+    print(reverse)
 
 x=int(input())
-rev(x)
+reverse(x)
