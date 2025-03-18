@@ -1,3 +1,5 @@
+#code
+
 def fun(x):
     x=list(x)
     n=len(x)
