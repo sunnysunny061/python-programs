@@ -1,3 +1,5 @@
+#new code
+
 def hcf(a,b,c):
     if (a>b) and (c>b):
         smaller=b
