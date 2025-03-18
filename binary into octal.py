@@ -1,3 +1,6 @@
+#Coding
+
+
 x = input()
 
 y=int(x, 2)
